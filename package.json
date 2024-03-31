@@ -1,0 +1,15 @@
+{
+  "name": "lsalyghn",
+  "version": "1.0.7",
+  "description": "npm i lsalyghn",
+  "main": "aliyun-api-gateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ghn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamPeopleGuo/aly.git"
+  },
+  "license": "ISC"
+}
